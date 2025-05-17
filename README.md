@@ -20,10 +20,14 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rihan-dsa" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/DsaRihan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
-  <a href="http://surl.li/rwmrgh" target="_blank"><img src="https://img.icons8.com/ios-filled/50/notion.png" width="40" height="40" alt="Notion Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/rihan-dsa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://github.com/DsaRihan" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub" /></a>
+  <a href="http://surl.li/rwmrgh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion Portfolio" /></a>
 </p>
+
 
 ---
 
