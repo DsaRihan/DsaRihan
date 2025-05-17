@@ -13,6 +13,7 @@
 - 🚀 Exploring the intersection of AI, Data, and System Design.
 - 📫 Reach me: **dsarihan@gmail.com**
 - 🧠 Know my work: [**My Projects**](https://tinyurl.com/3e9mbha3)
+- ✍️ Blog: [**My Blogs**](https://DsaRihan.github.io)
 - 📄 Resume: [**View CV**](https://drive.google.com/file/d/1Lj82hrQ1xDeZMVWTNapO8Uw2TkyfUgUH/view?usp=sharing)
 
 ---
