@@ -87,7 +87,8 @@
 
 <h4 align="center">👀 Visitor Count</h4>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DsaRihan&icon=0&color=0" alt="Visitor Count" />
+  <!-- <img src="https://visitcount.itsvg.in/api?id=DsaRihan&icon=0&color=0" alt="Visitor Count" /> -->
+  <img src="https://countapi.xyz/hit/DsaRihan.github.io/visits?style=flat-square" />
 </p>
 
 ---
