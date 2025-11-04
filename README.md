@@ -11,7 +11,7 @@
 - 💻 Full Stack & AI/ML Developer with a knack for building intelligent, scalable, and beautiful solutions.
 - 🌱 Currently pursuing Master's in Data Science.
 - 🚀 Exploring the intersection of AI, Data, and System Design.
-- 📫 Reach me: **dsarihan@gmail.com**
+- 📫 Reach me: **desarihan@gmail.com**
 - 🧠 Know my work: [**My Projects**](https://tinyurl.com/3e9mbha3)
 - ✍️ Blog: [**My Blogs**](https://DsaRihan.github.io)
 - 📁 StackOverflow: [**Stack**](https://stackoverflow.com/users/30565729/rihan-dsa)
