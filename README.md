@@ -15,7 +15,7 @@
 - 🧠 Know my work: [**My Projects**](https://tinyurl.com/3e9mbha3)
 - ✍️ Blog: [**My Blogs**](https://DsaRihan.github.io)
 - 📁 StackOverflow: [**Stack**](https://stackoverflow.com/users/30565729/rihan-dsa)
-- 📄 Resume: [**View CV**](https://drive.google.com/file/d/1erp53nyft3lVt9Vvxl-xxcw_GZNzJvkt/view?usp=share_link)
+- 📄 Resume: [**View CV**](https://drive.google.com/file/d/1oO-b52wBrFz1uooNom5rkv5TWEDQDAPU/view?usp=share_link)
 
 ---
 
